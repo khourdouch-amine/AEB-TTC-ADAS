@@ -4,6 +4,6 @@ __pycache__/
 venv/
 .env
 kaggle.json
-*.mp4
-*.mov
-*.avi
+.mp4
+.mov
+.avi
