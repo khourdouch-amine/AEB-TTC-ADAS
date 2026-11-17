@@ -2,7 +2,7 @@
 
 
 
-\*\*AI-Based Automatic Emergency Braking Using Object Detection and Time-to-Collision Estimation\*\*
+AI-Based Automatic Emergency Braking Using Object Detection and Time-to-Collision Estimation
 
 
 
@@ -94,9 +94,8 @@ This is an experimental engineering project. Distance and TTC values are estimat
 
 
 
-\*\*Amine Khourdouch\*\*  
-
-Master's Student in Mechatronics Engineering – Automotive and Aeronautics  
+Amine Khourdouch 
+ Mechatronics Engineering – Automotive and Aeronautics  
 
 CEAA – Université Ibn Tofaïl, Morocco
 
